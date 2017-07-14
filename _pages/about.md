@@ -17,7 +17,7 @@ and Applications (TALP) research group](http://www.talp.upc.edu/).
 I teach Matlab and also do TA for Deep Learning subjects.
 
 
-I have been software developer for most of my life, then data scientist
+I have been a software developer for most of my life, then data scientist
 and now I have turned back to academia to take on my _long-cherished_
 dream to become a researcher on machine learning and artificial intelligence.
 
