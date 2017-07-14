@@ -18,7 +18,7 @@ I teach Matlab and also do TA for Deep Learning subjects.
 
 
 I have been software developer for most of my life, then data scientist
-and now I have turned back to University to take on my _long-cherished_
+and now I have turned back to academia to take on my _long-cherished_
 dream to become a researcher on machine learning and artificial intelligence.
 
 
