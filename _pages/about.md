@@ -22,7 +22,7 @@ and now I have turned back to academia to take on my _long-cherished_
 dream to become a researcher on machine learning and artificial intelligence.
 
 
-I have special interes in Deep Learning, and specifically in Neural Machine Translation.
+I have special interest in Deep Learning, and specifically in Neural Machine Translation.
 I constantly scan the field to identify innovations and track the evolution of
 the state of the art. Lately I am focused on
 the Transformer architecture [recently proposed](https://arxiv.org/abs/1706.03762)
