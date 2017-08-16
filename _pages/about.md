@@ -11,7 +11,7 @@ redirect_from:
 I am currently a PhD candidate on Neural Machine Translation at the
 [Polytechnic University of Catalonia (UPC)](http://www.upc.edu/?set_language=en) in Barcelona.
 I am conducting my thesis under the supervision of Professors
-[Marta Ruiz Costa-Jussa](http://www.costa-jussa.com/) and
+[Marta Ruiz Costa-Jussà](http://www.costa-jussa.com/) and
 José Adrian Rodríguez Fonollosa, in the [Language and Speech Technologies
 and Applications (TALP) research group](http://www.talp.upc.edu/).
 I teach Matlab and also do TA for Deep Learning subjects.
