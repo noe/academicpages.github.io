@@ -52,13 +52,15 @@
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
-    
+
+    <p>
     {% if post.pdf %}
-      <p><a href="{{ post.pdf }}"><u>PDF</u></a></p> - 
+      <a href="{{ post.pdf }}"><u>[ PDF ]</u></a> 
     {% endif %}
     {% if post.bibtex %}
-      <p><a href="{{ post.bibtex }}"><u>bibtex</u></a></p>
+      <a href="{{ post.bibtex }}"><u>[ bibtex ]</u></a>
     {% endif %}
+    </p>
 
   </article>
 </div>
