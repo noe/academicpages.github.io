@@ -4,7 +4,6 @@ collection: teaching
 type: "Class"
 permalink: /teaching/1112-statistics
 venue: "Polytechnic University of Madrid (UPM)"
-date: 2011-09-01
 year: "2011-2012"
 term: "(1st and 2nd terms)"
 url: "https://www.fi.upm.es/docs/estudios/grado/1499_2012-13-GUIA-Probabilidades%20y%20Estadistica%20I_1ersemestre.pdf"
