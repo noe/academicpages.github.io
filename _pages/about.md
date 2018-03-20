@@ -14,7 +14,6 @@ I am conducting my thesis under the supervision of Professors
 [Marta Ruiz Costa-Jussà](http://www.costa-jussa.com/) and
 José Adrian Rodríguez Fonollosa, in the [Language and Speech Technologies
 and Applications (TALP) research group](http://www.talp.upc.edu/).
-I teach Matlab and also do TA for Deep Learning subjects.
 
 
 I have been a software developer for most of my life, then data scientist
@@ -24,4 +23,4 @@ dream to become a researcher on machine learning and artificial intelligence.
 
 I have special interest in Deep Learning, and specifically in Neural Machine Translation (NMT).
 Lately I am focused on _injecting_ prior knowledge into neural networks, specifically on
-hybridizing rule-based machine translation systems with NMT. 
+hybridizing rule-based machine translation systems with NMT.
